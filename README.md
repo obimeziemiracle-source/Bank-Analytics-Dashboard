@@ -5,7 +5,7 @@ This project is a Bank Anaytics Dashboard built in Power BI which is designed to
 Banks need a simple way to track customer activities and identify trends that support better decision-making.
 
 ## Objectives
-To develop and interactive dashboard that provides insights into customer demographics, account types, loan status, account balances, and regional customer behaviour.
+To develop an interactive dashboard that provides insights into customer demographics, account types, loan status, account balances, and regional customer behaviour.
 
 ## Tools Used
 - Microsoft Excel
